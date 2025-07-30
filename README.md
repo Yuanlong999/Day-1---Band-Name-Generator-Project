@@ -1,4 +1,4 @@
-# Day-1---Band-Name-Generator-Project
+# Day1-Band-Name-Generator-Project
 
 A fun Python beginner project that asks for user input and generates a fictional band name by combining a city and pet name.
 
