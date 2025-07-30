@@ -13,7 +13,6 @@ Clone the repo and run:
 task.py
 
 ```python
-print("Welcome to The Band Name Generator!")
-city = input("Which city did you grow up in?\nAnswer: ")
-pet = input("What is the name of a pet of yours?\nAnswer: ")
-print("Your band name could be: " + city + " " + pet)
+git clone https://github.com/Yuanlong999/Day-1---Band-Name-Generator-Project.git
+cd Day-1---Band-Name-Generator-Project
+python task.py
