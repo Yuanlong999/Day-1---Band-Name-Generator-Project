@@ -10,5 +10,6 @@ A fun Python beginner project that asks for user input and generates a fictional
 ## How to Run
 
 Clone the repo and run:
+python task.py
 
 ```bash
