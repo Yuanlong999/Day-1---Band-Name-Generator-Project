@@ -12,7 +12,7 @@ A fun Python beginner project that asks for user input and generates a fictional
 Clone the repo and run:
 python task.py
 
-```bash
+```python
 print("Welcome to The Band Name Generator!")
 city = input("Which city did you grow up in?\nAnswer: ")
 pet = input("What is the name of a pet of yours?\nAnswer: ")
